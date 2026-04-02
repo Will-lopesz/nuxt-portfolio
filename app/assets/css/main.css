@@ -2,5 +2,95 @@
 @import "@nuxt/ui";
 
 @theme {
-  --font-sans: "Poppins", sans-serif;
+  --font-sans: "Inter", "Poppins", sans-serif;
+  --color-surface: var(--portfolio-surface);
+  --color-surface-alt: var(--portfolio-surface-alt);
+  --color-text-primary: var(--portfolio-text-primary);
+  --color-text-secondary: var(--portfolio-text-secondary);
+  --color-accent: var(--portfolio-accent);
+  --color-accent-glow: var(--portfolio-accent-glow);
+}
+
+/* ── Dark theme (default) ── */
+:root {
+  --portfolio-surface: #0b0f19;
+  --portfolio-surface-alt: #111827;
+  --portfolio-text-primary: #f1f5f9;
+  --portfolio-text-secondary: #94a3b8;
+  --portfolio-accent: #38bdf8;
+  --portfolio-accent-glow: rgba(56, 189, 248, 0.25);
+  --portfolio-glass-bg: rgba(255, 255, 255, 0.04);
+  --portfolio-glass-border: rgba(255, 255, 255, 0.08);
+  --portfolio-gradient-start: #0b0f19;
+  --portfolio-gradient-end: #1e293b;
+}
+
+/* ── Light theme ── */
+.light {
+  --portfolio-surface: #f8fafc;
+  --portfolio-surface-alt: #f1f5f9;
+  --portfolio-text-primary: #0f172a;
+  --portfolio-text-secondary: #475569;
+  --portfolio-accent: #0284c7;
+  --portfolio-accent-glow: rgba(2, 132, 199, 0.2);
+  --portfolio-glass-bg: rgba(255, 255, 255, 0.6);
+  --portfolio-glass-border: rgba(0, 0, 0, 0.06);
+  --portfolio-gradient-start: #f8fafc;
+  --portfolio-gradient-end: #e2e8f0;
+}
+
+/* ── Global ── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--portfolio-surface);
+  color: var(--portfolio-text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Glass card utility ── */
+.glass-card {
+  background: var(--portfolio-glass-bg);
+  border: 1px solid var(--portfolio-glass-border);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 1rem;
+}
+
+/* ── Accent glow utility ── */
+.accent-glow {
+  box-shadow:
+    0 0 40px var(--portfolio-accent-glow),
+    0 0 80px var(--portfolio-accent-glow);
+}
+
+/* ── Section spacing ── */
+.section-padding {
+  padding: 8rem 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding: 10rem 2rem;
+  }
+}
+
+/* ── Gradient text utility ── */
+.gradient-text {
+  background: linear-gradient(135deg, var(--portfolio-accent), #818cf8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Hide scrollbar for horizontal scroll ── */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
 }

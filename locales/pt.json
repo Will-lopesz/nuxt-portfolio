@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "tag": "Engenheiro Mobile · 4+ anos",
+    "title1": "Arquitetando soluções",
+    "title2": "mobile escaláveis",
+    "title3": "do conceito",
+    "title4": "à produção",
+    "subtitle": "Responsável pelo ecossistema mobile de uma rede com 600+ escolas. Aplicações em produção com mais de 50.000 usuários, desenvolvidas com foco em performance, escalabilidade e experiência real.",
+    "cta": "Explorar projetos",
+    "scroll": "Rolar"
+  },
+
+  "metrics": {
+    "label": "Impacto real",
+    "title": "Tecnologia aplicada no dia a dia",
+    "users": {
+      "label": "Usuários ativos",
+      "description": "Utilizando aplicações diariamente"
+    },
+    "schools": {
+      "label": "Franquias",
+      "description": "Unidades operando com o sistema"
+    },
+    "impacted": {
+      "label": "Pessoas impactadas",
+      "description": "Através das soluções desenvolvidas"
+    },
+    "badge": "Responsável por todo o ecossistema mobile"
+  },
+
+  "projects": {
+    "label": "Projetos",
+    "title": "Produtos reais. Uso real.",
+    "subtitle": "Aplicações construídas para resolver problemas reais, utilizadas diariamente em um ecossistema completo de educação, vendas e pagamentos.",
+
+    "designsystem": {
+      "title": "React Native IM UI",
+      "description": "Biblioteca proprietária de componentes criada para padronizar a interface de todos os aplicativos. Sistema completo de temas, cores, tipografia e espaçamentos, com suporte a múltiplas marcas e projetos white-label.",
+      "impact": "Base compartilhada entre todos os apps mobile"
+    },
+
+    "mundoim": {
+      "title": "Mundo IM",
+      "description": "Aplicativo principal da plataforma educacional, utilizado por alunos para acesso a cursos, acompanhamento de notas, finanças, notificações e conteúdos digitais. Migrado de apps nativos para React Native, melhorando performance e manutenção.",
+      "impact": "50.000+ usuários ativos em produção"
+    },
+
+    "instrutor": {
+      "title": "Jeito IM do Instrutor",
+      "description": "Aplicativo utilizado por instrutores para gestão completa das aulas: presença, notas, desempenho e conteúdos. Ferramenta essencial no dia a dia das franquias.",
+      "impact": "Uso diário em toda a rede"
+    },
+
+    "crm": {
+      "title": "CRIM",
+      "description": "Aplicativo para equipes comerciais com cadastro de leads, chat e funcionamento offline. Permite operações em campo mesmo sem conexão.",
+      "impact": "Suporte a vendas em ambientes offline"
+    },
+
+    "smartpos": {
+      "title": "Smart POS App",
+      "description": "Aplicativo Android nativo para maquininhas de cartão, integrado à fintech. Possui sistema próprio de atualização e integração direta com contratos e pagamentos.",
+      "impact": "Padronização das vendas nas franquias"
+    },
+
+    "impay": {
+      "title": "IM Pay",
+      "description": "Aplicativo fintech em desenvolvimento com atuação no frontend e backend. Inclui autenticação com 2FA via SMS/email, pagamentos e arquitetura orientada a eventos.",
+      "impact": "Expansão para soluções financeiras próprias"
+    },
+
+    "flutter": {
+      "title": "Finance App (Flutter)",
+      "description": "Projeto pessoal em Flutter focado em performance e experiência do usuário. Desenvolvido para explorar novas arquiteturas mobile.",
+      "impact": "Estudo prático de novas tecnologias"
+    }
+  },
+
+  "expertise": {
+    "label": "Como eu trabalho",
+    "title": "Do problema à solução",
+    "subtitle": "Atuação completa no ciclo mobile: arquitetura, desenvolvimento, publicação e evolução contínua em produção.",
+
+    "phase1": {
+      "phase": "Arquitetura",
+      "title": "Base sólida",
+      "description": "Definição de estrutura e padrões para garantir escalabilidade e manutenção."
+    },
+    "phase2": {
+      "phase": "Desenvolvimento",
+      "title": "Execução consistente",
+      "description": "Construção com foco em reutilização, performance e integração com backend."
+    },
+    "phase3": {
+      "phase": "Produção",
+      "title": "Entrega contínua",
+      "description": "Publicação, monitoramento e evolução constante dos apps."
+    }
+  },
+
+  "fullstack": {
+    "label": "Além do mobile",
+    "title": "Visão completa de produto",
+    "subtitle": "Atuação também no backend e web, participando da construção de APIs, integrações e soluções financeiras."
+  },
+
+  "timeline": {
+    "label": "Jornada",
+    "title": "Construindo na prática",
+    "items": {
+      "education": {
+        "year": "2016 — 2018",
+        "title": "Formação Técnica em Informática",
+        "description": "Curso técnico no IFC com foco em desenvolvimento. Projeto final em Java para gestão de clínica veterinária."
+      },
+      "firstexp": {
+        "year": "2019 — 2020",
+        "title": "Desenvolvedor Web & Primeiro contato Mobile",
+        "description": "Atuação com PHP e Bootstrap e primeiro contato com Flutter em projeto mobile."
+      },
+      "transition": {
+        "year": "2020 — 2021",
+        "title": "Transição e Experiência de Campo",
+        "description": "Trabalho como técnico de redes enquanto seguia estudando e desenvolvendo projetos."
+      },
+      "mobile": {
+        "year": "2021 — 2022",
+        "title": "Desenvolvedor Mobile (Crypto App)",
+        "description": "Desenvolvimento de app com React Native para mercado de criptomoedas, com websocket em tempo real e foco em segurança."
+      },
+      "mix": {
+        "year": "2022 — Atual",
+        "title": "Mobile Lead & Full-Stack",
+        "description": "Responsável por todo o ecossistema mobile do Instituto Mix. Migração de apps nativos, criação de novos produtos e atuação em backend."
+      }
+    }
+  },
+
+  "about": {
+    "label": "Sobre mim",
+    "title": "Construindo com",
+    "titleHighlight": "responsabilidade",
+    "paragraph1": "Minha trajetória começou cedo, ainda no ensino médio técnico, e desde então venho construindo soluções reais.",
+    "paragraph2": "Hoje sou responsável por todo o ecossistema mobile de uma empresa com grande alcance nacional, lidando com desafios reais de escala e manutenção.",
+    "paragraph3": "Mais recentemente, venho expandindo minha atuação para backend e soluções financeiras.",
+    "photoPlaceholder": "Foto",
+    "traits": {
+      "ownership": "Ownership",
+      "product": "Produto",
+      "architecture": "Arquitetura",
+      "leadership": "Liderança",
+      "learner": "Evolução constante"
+    }
+  },
+
+  "cta": {
+    "label": "Contato",
+    "title1": "Vamos construir algo",
+    "titleHighlight": "relevante",
+    "subtitle": "Sempre aberto a boas conversas, conexões e ideias interessantes.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email",
+    "footer": "Construído com foco em qualidade, performance e experiência."
+  },
+
+  "nav": {
+    "impact": "Impacto",
+    "work": "Projetos",
+    "expertise": "Expertise",
+    "journey": "Jornada",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+
+  "meta": {
+    "title": "Engenheiro Mobile — Portfólio",
+    "description": "Engenheiro Mobile com 4+ anos de experiência desenvolvendo aplicações escaláveis utilizadas por milhares de usuários."
+  }
+}

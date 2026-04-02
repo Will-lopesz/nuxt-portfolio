@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "tag": "Mobile Engineer · 4+ years",
+    "title1": "Architecting scalable",
+    "title2": "mobile solutions",
+    "title3": "from concept",
+    "title4": "to production",
+    "subtitle": "Responsible for the mobile ecosystem of a network with 600+ schools. Production applications used by over 50,000 users, built with a focus on performance, scalability, and real user experience.",
+    "cta": "Explore my work",
+    "scroll": "Scroll"
+  },
+
+  "metrics": {
+    "label": "Real-world impact",
+    "title": "Technology in everyday use",
+    "users": {
+      "label": "Active users",
+      "description": "Using applications daily in production"
+    },
+    "schools": {
+      "label": "Franchises",
+      "description": "Units operating with the platform"
+    },
+    "impacted": {
+      "label": "People impacted",
+      "description": "Through the solutions developed"
+    },
+    "badge": "Responsible for the entire mobile ecosystem"
+  },
+
+  "projects": {
+    "label": "Projects",
+    "title": "Real products. Real usage.",
+    "subtitle": "Applications built to solve real problems, used daily across an ecosystem of education, sales, and financial solutions.",
+
+    "designsystem": {
+      "title": "React Native IM UI",
+      "description": "Custom component library built to standardize UI across all applications. Includes a complete theming system with colors, typography, spacing, and support for multiple brands and white-label projects.",
+      "impact": "Shared foundation across all mobile apps"
+    },
+
+    "mundoim": {
+      "title": "Mundo IM",
+      "description": "Main educational platform app used by students to access courses, track grades, manage financials, receive notifications, and consume digital content. Migrated from native apps to React Native, improving performance and maintainability.",
+      "impact": "50,000+ active users in production"
+    },
+
+    "instrutor": {
+      "title": "Instructor App",
+      "description": "Application used by instructors to manage classroom activities, including attendance tracking, grading, performance monitoring, and access to teaching materials.",
+      "impact": "Used daily across the entire network"
+    },
+
+    "crm": {
+      "title": "CRIM",
+      "description": "Mobile CRM for sales teams featuring lead management, chat, and offline-first capabilities, enabling field operations even without internet connection.",
+      "impact": "Supports real-world sales operations in the field"
+    },
+
+    "smartpos": {
+      "title": "Smart POS App",
+      "description": "Native Android application for payment terminals integrated with the company's fintech. Handles contracts, payments, and includes a custom OTA update system without relying on app stores.",
+      "impact": "Standardized sales flow across franchises"
+    },
+
+    "impay": {
+      "title": "IM Pay",
+      "description": "Fintech application in development with contributions in both frontend and backend. Includes 2FA authentication via SMS and email, payment flows, and event-driven architecture.",
+      "impact": "Expansion into financial infrastructure"
+    },
+
+    "flutter": {
+      "title": "Finance App (Flutter)",
+      "description": "Personal project built with Flutter focused on performance and user experience. Created to explore alternative mobile architectures.",
+      "impact": "Hands-on exploration of new technologies"
+    }
+  },
+
+  "expertise": {
+    "label": "How I work",
+    "title": "From problem to solution",
+    "subtitle": "Full ownership of the mobile lifecycle: architecture, development, deployment, and continuous evolution in production.",
+
+    "phase1": {
+      "phase": "Architecture",
+      "title": "Strong foundation",
+      "description": "Defining structure, navigation, and patterns to ensure scalability and long-term maintainability."
+    },
+    "phase2": {
+      "phase": "Development",
+      "title": "Consistent execution",
+      "description": "Building with React Native and Expo using reusable patterns, performance-focused approaches, and seamless backend integration."
+    },
+    "phase3": {
+      "phase": "Production",
+      "title": "Continuous delivery",
+      "description": "Managing releases, monitoring applications, and continuously improving production systems."
+    }
+  },
+
+  "fullstack": {
+    "label": "Beyond mobile",
+    "title": "Full product perspective",
+    "subtitle": "Also contributing to backend and web development, building APIs, integrations, and financial solutions that support the mobile ecosystem."
+  },
+
+  "timeline": {
+    "label": "Journey",
+    "title": "Built through real-world experience",
+    "items": {
+      "education": {
+        "year": "2016 — 2018",
+        "title": "Technical Degree in IT",
+        "description": "Technical education focused on software development. Final project built in Java for managing a veterinary clinic system."
+      },
+      "firstexp": {
+        "year": "2019 — 2020",
+        "title": "Web Developer & First Mobile Experience",
+        "description": "Worked with PHP and Bootstrap, and had first contact with mobile development using Flutter."
+      },
+      "transition": {
+        "year": "2020 — 2021",
+        "title": "Transition & Field Experience",
+        "description": "Worked as a network technician while continuing to study and develop software projects."
+      },
+      "mobile": {
+        "year": "2021 — 2022",
+        "title": "Mobile Developer (Crypto App)",
+        "description": "Developed a React Native app for cryptocurrency trading, including real-time data via WebSocket and strong focus on security and 2FA."
+      },
+      "mix": {
+        "year": "2022 — Present",
+        "title": "Mobile Lead & Full-Stack Developer",
+        "description": "Responsible for the entire mobile ecosystem at Instituto Mix. Led migration from native apps, built new products, and expanded into backend and fintech solutions."
+      }
+    }
+  },
+
+  "about": {
+    "label": "About",
+    "title": "Building with",
+    "titleHighlight": "ownership",
+    "paragraph1": "My journey started early during technical school, and since then I’ve been focused on building real-world solutions.",
+    "paragraph2": "Today, I’m responsible for the entire mobile ecosystem of a company with national reach, dealing with real challenges in scale, performance, and maintainability.",
+    "paragraph3": "More recently, I’ve been expanding into backend and financial systems, broadening my product mindset and deepening my technical expertise.",
+    "photoPlaceholder": "Profile Photo",
+    "traits": {
+      "ownership": "Ownership",
+      "product": "Product Thinking",
+      "architecture": "Architecture",
+      "leadership": "Leadership",
+      "learner": "Continuous Learning"
+    }
+  },
+
+  "cta": {
+    "label": "Get in touch",
+    "title1": "Let’s build something",
+    "titleHighlight": "meaningful",
+    "subtitle": "Always open to meaningful conversations, connections, and interesting ideas.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email",
+    "footer": "Built with a focus on quality, performance, and user experience."
+  },
+
+  "nav": {
+    "impact": "Impact",
+    "work": "Projects",
+    "expertise": "Expertise",
+    "journey": "Journey",
+    "about": "About",
+    "contact": "Contact"
+  },
+
+  "meta": {
+    "title": "Mobile Engineer — Portfolio",
+    "description": "Mobile Engineer with 4+ years of experience building scalable applications used by thousands of users across a network of 600+ schools."
+  }
+}
